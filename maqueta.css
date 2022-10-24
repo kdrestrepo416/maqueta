@@ -1,0 +1,17 @@
+
+
+header {
+    background-color: azure;
+    text-align: end;
+    font-size: 18px;
+    height: 5vh;
+    justify-content: space-around;
+
+}
+main{
+    background-color: aqua;
+}
+
+footer{
+    background-color: blue;
+}
